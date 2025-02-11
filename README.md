@@ -20,8 +20,7 @@ I completed my schooling at **Sacred Heart Convent AI Higher Secondary School, V
 - **Other Skills**: Data Structures, Problem-Solving, Competitive Coding
 
 ## 📈 GitHub Stats:
-[![Dineshbalaji A's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinesh-Balaji23&theme=dark)](https://github.com/Dinesh-Balaji23)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Dinesh-Balaji23&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Dinesh-Balaji23's GitHub Stats" />
 
 ## 💻 LeetCode Status (My Side Hustle): 
 ![](https://leetcard.jacoblin.cool/DB_Anbarasan?ext=heatmap)
