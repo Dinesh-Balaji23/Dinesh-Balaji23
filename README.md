@@ -22,7 +22,7 @@ I completed my schooling at **Sacred Heart Convent AI Higher Secondary School, V
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](www.linkedin.com/in/dineshbalaji-anbarasan-b26baa325)  
-[![GitHub]([https://img.shields.io/badge/GitHub-Omashaktivel-black?style=for-the-badge&logo=github)](https://github.com/your-github-profile](https://github.com/Dinesh-Balaji23))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dineshbalaji-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/dineshbalaji-anbarasan-b26baa325)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dineshbalaji-black?style=for-the-badge&logo=github)](https://github.com/Dinesh-Balaji23) 
 
-⭐ **Fun, Learning & Innovation - That's my journey!** 🚀🔥
+⭐ **Learning & Innovation - That's my journey!** 🚀🔥
