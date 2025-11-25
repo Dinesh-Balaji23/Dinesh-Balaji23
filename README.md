@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Dineshbalaji A - Aspiring Full-Stack Developer 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVwbmNjdHloNjd2cnA5OXR0MHI4Y3ptY3k4Y2h6emx5dGJkMHV1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </p>
 
 ## 👨‍💻 About Me
