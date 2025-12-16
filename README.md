@@ -1,9 +1,5 @@
 <h1 align="center">🚀 Dineshbalaji A - Aspiring Full-Stack Developer 🚀</h1>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVwbmNjdHloNjd2cnA5OXR0MHI4Y3ptY3k4Y2h6emx5dGJkMHV1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</p>
-
 ## 👨‍💻 About Me
 Hello there! I'm **Dineshbalaji A**, hailing from the temple town of **Villupuram**! 🌍  
 Currently, I'm pursuing my **B.E. in Engineering** at **Kongu Engineering College, Perundurai**.  
