@@ -11,10 +11,6 @@
   <span style="color:#ff0033;">Black UI</span> • <span style="color:#ff0033;">Red Accents</span> • Clean Code
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinesh-Balaji23&label=PROFILE+VIEWS&color=ff0033&style=flat" />
-</p>
-
 <hr style="border:1px solid #ff0033;"/>
 
 ## 🧠 ABOUT ME
