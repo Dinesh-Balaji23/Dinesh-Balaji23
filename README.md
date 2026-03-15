@@ -111,6 +111,14 @@ I don’t just *use* tools — I **understand** them.
 
 <hr style="border:1px solid #ff0033;"/>
 
+## 📊 GITHUB GRIND
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dinesh-Balaji23&theme=dark)](https://git.io/streak-stats" />
+</p>
+
+<hr style="border:1px solid #ff0033;"/>
+
 ## 🚀 PROJECT HIGHLIGHTS
 
 - 🔴 **Handscape** — React + MongoDB  
