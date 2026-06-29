@@ -28,15 +28,6 @@ I don’t just *use* tools — I **understand** them.
 
 <hr style="border:1px solid #ff0033;"/>
 
-## 🎯 CURRENT GRIND
-
-- 🔥 Advanced **React & Backend APIs**
-- 🧠 Daily **LeetCode / DSA**
-- 🧩 System-thinking over copy-paste coding
-- ⚫ Dark, red-accented UI design
-
-<hr style="border:1px solid #ff0033;"/>
-
 ## 🧩 TECH STACK
 
 ### 🌐 FRONTEND
